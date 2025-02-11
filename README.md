@@ -1,7 +1,7 @@
 # Hydralore-IDE
 <h3>Hydralore IDE - IDE под язык программирования Hydra</h3>
 
-<img src="https://github.com/Disvord-projects/Hydralore-IDE/blob/main/hydralore_preview.png">
+<img src="https://github.com/Disvord-projects/Hydralore-IDE/blob/main/HydraLore-preview.png">
 <h5>Документация по Hydra находится по ссылке: https://github.com/Kross1de/Hydra---The-programming-language</h5>
 
 <h3>! ДАННЫЙ ПРОЕКТ НАХОДИТСЯ НА СТАДИИ РАЗРАБОТКИ !</h3>
